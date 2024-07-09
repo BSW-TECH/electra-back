@@ -1,4 +1,4 @@
-package com.electra.server;
+package com.electra.server.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
